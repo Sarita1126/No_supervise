@@ -2,7 +2,7 @@
 ***Autora:*** *Sara Peña Alvarez*
 
 #### *Objetivo*
-*Este proyecto explora un conjunto de datos con información **fisicoquímica de vinos tintos portugueses (Vinho Verde)**.  
+*Este proyecto explora un conjunto de datos con información **fisicoquímica de vinos tintos**.  
 El objetivo fue analizar sus características, reducir la dimensionalidad de los datos y descubrir posibles patrones que expliquen las diferencias de calidad sin usar etiquetas.*
 
 #### *Datos*
